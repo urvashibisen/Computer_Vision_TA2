@@ -1,10 +1,10 @@
 # Computer_Vision_TA2
 
-### This project demonstrates the implementation of three popular corner and feature detection algorithms in computer vision:
+#### This project demonstrates the implementation of three popular corner and feature detection algorithms in computer vision:
 
-#####  1. **SIFT (Scale-Invariant Feature Transform)**
-#####  2. **Harris Corner Detection**
-#####  3. **Shi-Tomasi Corner Detection**
+#### 1. **SIFT (Scale-Invariant Feature Transform)**
+#### 2. **Harris Corner Detection**
+#### 3. **Shi-Tomasi Corner Detection**
 
 ##### Algorithms Implemented
 
